@@ -1,0 +1,12 @@
+h1{
+    color:rebeccapurple;
+    border-bottom: 1px ;
+    border-bottom-style:solid ;
+    border-bottom-color: purple ;
+}
+
+.imagemredonda {
+    width: 150px;
+    height: 150px;
+    border: radius 50%;
+}
